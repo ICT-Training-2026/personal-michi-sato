@@ -1,4 +1,4 @@
 package store;
 
-public class Product2{
+public class Project2{
 }
